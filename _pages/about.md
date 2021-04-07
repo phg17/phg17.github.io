@@ -12,4 +12,8 @@ Brain whisperer, photoshopper extraordinaire, ASMR superstar, depressing drawing
 
 I am currently a PhD candidate in Neurotechnology at Imperial College London. 
 
-[More information on my lab here :] (http://www.bg.ic.ac.uk/research/reichenbach/) 
+[More information on my lab here :](http://www.bg.ic.ac.uk/research/reichenbach/) 
+
+[explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live")
+
+
