@@ -12,6 +12,6 @@ Brain whisperer, photoshopper extraordinaire, ASMR superstar, depressing drawing
 
 I am currently a PhD candidate in Neurotechnology at Imperial College London. 
 
-[More information on my lab here :](http://www.bg.ic.ac.uk/research/reichenbach/) 
+[More information on my lab here](http://www.bg.ic.ac.uk/research/reichenbach/) 
 
 
