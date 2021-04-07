@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 3 years of intensive undergraduate courses of Maths and Physics for the "Grandes Ecoles", Lycee Condorcet Paris, 2015
+* B.S. in Engineering Science, Gremoble INP Phelma, 2016 
+* Engineering Diploma in Biomedical Engineering, Gremoble INP Phelma, 2018 (distinction)
+* M.res in Neurotechnology, Imperial College London, 2019 (distinction)
+* Ph.D in Neurotechnology, Imperial College London, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Assistant on "Innovative Technology for Human Regeneration"
+  * Okayama University, Satoh Lab
+  * Duties included: Animal Surgery, Imaging, Genetic Engineering
+  * Supervisor: Professor Satoh
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Assistant on "A supernumerary Finger to Play the Piano" 
+  * Imperial College London, Brain and Behaviour Lab
+  * Duties included: Experimental Design, Setup Building, C# programming
+  * Supervisor: Dr. Faisal
   
 Skills
 ======
