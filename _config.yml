@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "GuilleminotPie1"
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pierre Hieu Guilleminot"
-  avatar           : "profile.png"
+  avatar           : "Pierre.png"
   bio              : "PhD candidate in Neurotechnology. I touch and whisper to people to see how they react"
   location         : "Imperial College London"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "phg17"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ph_glmnt"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "pierre-hieu-guilleminot-7b718012b"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "GuilleminotPie1"
   vine             :
   weibo            :
   xing             :
