@@ -14,4 +14,6 @@ I am currently a PhD candidate in Neurotechnology at Imperial College London. I 
 
 [More information on my lab here](http://www.bg.ic.ac.uk/research/reichenbach/){: .btn}
 
+Inline-style: 
+![More information on my lab here](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
