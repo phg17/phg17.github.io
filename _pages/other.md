@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-[Doggo]https://github.com/phg17/phg17.github.io/blob/master/images/njpr7erh0hh21.jpg
+[Doggo]https://raw.githubusercontent.com/phg17/phg17.github.io/master/images/njpr7erh0hh21.jpg
