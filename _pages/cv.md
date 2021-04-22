@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 [PDF version](phg17.github.io/files/CV.pdf)
 
