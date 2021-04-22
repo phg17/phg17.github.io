@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+https://github.com/phg17/phg17.github.io/blob/master/files/CV.pdf
+
 Education
 ======
 * 3 years of intensive undergraduate courses of Maths and Physics for the "Grandes Ecoles", Lycee Condorcet Paris, 2015
