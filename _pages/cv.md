@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-https://github.com/phg17/phg17.github.io/blob/master/files/CV.pdf
+[PDF version](https://phg17.github.io/files/CV.pdf)
 
 Education
 ======
