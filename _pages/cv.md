@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[PDF version](phg17.github.io/files/CV.pdf)
+[PDF version](/CV.pdf)
 
 Education
 ======
