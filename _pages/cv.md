@@ -45,6 +45,11 @@ Skills
   * Auditory Brainstem Re-sponses (ABR) 
   * Multisensory Stimulation for Cognitive Experiments 
   * Inertial Measurement Unit (IMU) for Human Machine Interface
+* Languages:
+  * French, Native Speaker
+  * English, Highly Proficient (C2 IELTS)
+  * German, Elementary Knowledge (A2)
+  * Japanese, Elementary Knowledge (A2)
 
 Publications
 ======
