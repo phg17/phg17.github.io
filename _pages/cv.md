@@ -31,12 +31,20 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quantitative background: 
+  * Broad training in engineering, applied mathematics and statistics with focuson biosignal processing, computation modelling and data analysis. 
+  * Demonstrable experience in develop-ing and applying custom machine learning frameworks (scikit-learn)
+* Programming and computational background:
+  * Demonstrable strong programming skills in Pythonand MATLAB, including many specialized packages/toolboxes/APIs
+  * Basic programming skills in C/C#and Labview
+  * Basic modelling skills in Comsol
+  * Demonstrable experience in processing large volumesof data and high-performance computing
+* Speech signal processing:  Demonstrable experience in speech signal processing with particular focuson extracting speech features at an acoustic and phonetic level
+* Neuroscience tools:  
+  * Electroencephalography (EEG) Analysis and Modelling 
+  * Auditory Brainstem Re-sponses (ABR) 
+  * Multisensory Stimulation for Cognitive Experiments 
+  * Inertial Measurement Unit (IMU) for Human Machine Interface
 
 Publications
 ======
