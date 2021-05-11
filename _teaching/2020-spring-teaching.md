@@ -11,3 +11,9 @@ location: "London, UK"
 Brain-Machine Interface
 ======
 
+
+Stochastic Processes (Modelling in Biology, 2nd Semester)
+======
+
+
+
