@@ -7,7 +7,7 @@ venue: "Imperial College London, Biomedical Engineering"
 date: 2020-04-04
 location: "London, UK"
 ---
-# List of Spring 2021 Courses
+# List of Spring 2020 Courses
 
 ## Brain-Machine Interface
 
