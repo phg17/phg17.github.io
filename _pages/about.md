@@ -25,6 +25,7 @@ Aside from my main research, I also work on side projects and supervise Master s
   - Data Analysis and Modelling
   - Computational Neuroscience
   - Machine Learning
+  - Teaching
   - Science Communication
   - Graphic Arts                             
 
