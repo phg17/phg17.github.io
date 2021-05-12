@@ -8,7 +8,9 @@ date: 2020-09-09
 location: "London,UK"
 ---
 
-Probability and Statistics
-======
+# List of Fall 2020 Courses
+
+## Probability and Statistics
+
 
 This course taught by Pr.Tobias Reichenbach went over the bases of probability and statistics, looking at different probability distribution and their meaning, estimators and statistical tests.
