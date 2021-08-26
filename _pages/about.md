@@ -22,10 +22,11 @@ Aside from my main research, I also work on side projects and supervise Master s
 **Interest :**  
   - Neurotechnology
   - Mathematics
+  - Biostatistics
   - Brain-Machine Interface
   - Data Analysis and Modelling
   - Computational Neuroscience
-  - Machine Learning
+  - Machine Learning and Deep Learning
   - Teaching
   - Science Communication
   - Graphic Arts                             
