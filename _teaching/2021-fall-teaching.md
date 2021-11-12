@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2021-fall-teaching
 venue: "Imperial College London, Biomedical Engineering, Computing"
-date: 2019-10-04
+date: 2021-10-04
 location: "London, UK"
 ---
 # List of Fall 2021 Courses
