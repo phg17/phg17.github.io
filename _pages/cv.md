@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[PDF version](/CV.pdf)
+[PDF version](/CV__Academic_.pdf)
 
 Education
 ======
