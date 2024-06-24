@@ -7,5 +7,6 @@ author_profile: true
 
 
 You can contact me using : 
-* <phg17@ic.ac.uk>
+* <pierre.guilleminot@univ-amu.fr>
+* <pierre.guilleminot@inserm.fr>
 * <pierre.hieu.guilleminot@gmail.com>
