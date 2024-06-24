@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pierre Guilleminot"
+title                    : "Pierre Hieu Guilleminot"
 title_separator          : "-"
-name                     : &name "Pierre Guilleminot"
-description              : &description "A modest page for a modest PhD student"
+name                     : &name "Pierre Hieu Guilleminot"
+description              : &description "A modest page for a modest human being"
 url                      : https://phg17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "phg17.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pierre Hieu Guilleminot"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Neurotechnology"
+  bio              : "Postdoc Researcher in Computational Cognitive Neuroscience"
   location         : "Imperial College London"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
