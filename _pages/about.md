@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pierre Guilleminot"
+title: "Pierre Hieu Guilleminot"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
