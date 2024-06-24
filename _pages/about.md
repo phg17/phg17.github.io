@@ -10,24 +10,19 @@ redirect_from:
 
 ### About Me
 \
-Hi, my name is Pierre Guilleminot, I am currently a PhD candidate at the [Department of Bioengineering](https://www.imperial.ac.uk/bioengineering/) and the [Centre of Neurotechnology](https://www.imperial.ac.uk/neurotechnology "The best CDT") of [Imperial College London](https://www.imperial.ac.uk/). I am a member of the [Sensory Neuroengineering Group](http://www.bg.ic.ac.uk/research/reichenbach/) led by [Pr.Tobias Reichenbach](https://reichenbach.bg-research.cc.ic.ac.uk/team.html), currently based both in the Departement of Bioengineering of Imperial College London and in the [Department for Artificial Intelligence in Biomedical Engineering (AIBE)](https://www.tf.fau.eu/faculty-of-engineering/departments-and-chairs/artificial-intelligence-in-biomedical-engineering/) of Friedrich-Alexander-University(FAU) Erlangen-Nuremberg.
+Hi, my name is Pierre Guilleminot, I am currently a postdoc researcher at the [Institute of System Neuroscience in Marseille](https://ins-amu.fr/) and the [INSERM](https://www.inserm.fr/en/home/). I am a member of the [DCAP Team](https://ins-amu.fr/dcp) (Dynamics of Cognitive and Auditory Processes) led by [Benjamin Morillon](https://scholar.google.fr/citations?user=lBwWtFUAAAAJ&hl=fr). My current research focuses on the neural basis of information processing during natural speech listening, I am especially interested in the neural representation of the interplay between temporal and semantic predictions. In my daily life, this translates into using information theory, (biologically somewhat sometimes plausible) neural network and an unhealthy amount of caffeine to analyze, model and (bravely/humbly attempt to) understand brain responses to speech. I am also exploiting PhDs students to do my evil biddings, as they've sold their souls in exchange for a modest stipend and earnest supervision.
 
-
-My PhD research focuses on combining sensory signals in order to modulate speech comprehension in challenging conditions and understanding the neural mechanisms of the multisensory perception and comprehension of natural speech. In my work, I am combining cognitive neuroscience,signal processing and machine learning in order to design experiments and model EEG response to multisensory stimuli.
-
-Aside from my main research, I also work on side projects and supervise Master students, exploring brain oscillations and sensory substitution.
-
+I was previously doing my PhD at the [Department of Bioengineering](https://www.imperial.ac.uk/bioengineering/) and the [Centre of Neurotechnology](https://www.imperial.ac.uk/neurotechnology "The best CDT") of [Imperial College London](https://www.imperial.ac.uk/) as a member of the [Sensory Neuroengineering Group](http://www.bg.ic.ac.uk/research/reichenbach/) led by [Pr.Tobias Reichenbach](https://reichenbach.bg-research.cc.ic.ac.uk/team.html), now based in the [Department for Artificial Intelligence in Biomedical Engineering (AIBE)](https://www.tf.fau.eu/faculty-of-engineering/departments-and-chairs/artificial-intelligence-in-biomedical-engineering/) of Friedrich-Alexander-University(FAU) Erlangen-Nuremberg.
 
 \
 **Interest :**  
-  - Neurotechnology
-  - Mathematics
-  - Biostatistics
-  - Brain-Machine Interface
-  - Data Analysis and Modelling
   - Computational Neuroscience
+  - Cognitive Neuroscience
+  - Mathematics
+  - Brain-Machine Interface
   - Machine Learning and Deep Learning
   - Teaching
   - Science Communication
-  - Graphic Arts                             
+  - Graphic Arts
+  - Living, loving and laughing (I'm barely doing any of these)                            
 
