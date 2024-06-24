@@ -24,5 +24,6 @@ I was previously doing my PhD at the [Department of Bioengineering](https://www.
   - Teaching
   - Science Communication
   - Graphic Arts
+  - Photoshopping sunglasses on dogs
   - Living, loving and laughing (I'm barely doing any of these)                            
 
