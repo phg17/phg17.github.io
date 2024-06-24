@@ -16,7 +16,7 @@ Education
 * B.S. in Engineering Science, Gremoble INP Phelma, 2016 
 * Engineering Diploma in Biomedical Engineering, Gremoble INP Phelma, 2018 (distinction)
 * M.res in Neurotechnology, Imperial College London, 2019 (distinction)
-* Ph.D in Neurotechnology, Imperial College London, 2022 (expected)
+* Ph.D in Neurotechnology, Imperial College London, 2023 
 
 Work experience
 ======
@@ -29,28 +29,36 @@ Work experience
   * Imperial College London, Brain and Behaviour Lab
   * Duties included: Experimental Design, Setup Building, C# programming
   * Supervisor: Dr. Faisal
+ 
+* Spring-Summer 2022: Neuroscience intern
+  * INNERVIA-Bioelectronics, Barcelona
+  * Duties included: Electrophysiological Data Analysis and Modelling
+  * Supervior: Jurrian Bakker
   
 Skills
 ======
 * Quantitative background: 
-  * Broad training in engineering, applied mathematics and statistics with focuson biosignal processing, computation modelling and data analysis. 
-  * Demonstrable experience in develop-ing and applying custom machine learning frameworks (scikit-learn)
+  * Broad training in engineering, applied mathematics and statistics with focus on biosignal processing, information theory, computation modelling and data analysis. 
+  * Experience in developing and applying custom machine learning (scikit-learn), topological data analysis (giotto-tda) and deep learning (pytorch) frameworks.
 * Programming and computational background:
-  * Demonstrable strong programming skills in Pythonand MATLAB, including many specialized packages/toolboxes/APIs
-  * Basic programming skills in C/C#and Labview
-  * Basic modelling skills in Comsol
-  * Demonstrable experience in processing large volumesof data and high-performance computing
+  * Demonstrable strong programming skills in Python.
+  * Basic programming skills in C/C#and Labview.
+  * Demonstable experience in deep learning.
+  * Demonstrable experience in processing large volumes of data and high-performance computing.
 * Speech signal processing:  Demonstrable experience in speech signal processing with particular focuson extracting speech features at an acoustic and phonetic level
 * Neuroscience tools:  
-  * Electroencephalography (EEG) Analysis and Modelling 
-  * Auditory Brainstem Re-sponses (ABR) 
-  * Multisensory Stimulation for Cognitive Experiments 
+  * Electrophysiological (M/s/EEG) and Nerve Data Analysis and Modelling.
+  * Auditory Brainstem Responses (ABR).
+  * Machine learning, deep learning and spiking neural networks for biologically-constrained models (brian2).
+  * Multisensory Stimulation for Cognitive Experiments.
   * Inertial Measurement Unit (IMU) for Human Machine Interface
 * Languages:
   * French, Native Speaker
   * English, Highly Proficient (C2 IELTS)
   * German, Elementary Knowledge (A2)
   * Japanese, Elementary Knowledge (A2)
+ 
+
 
 Publications
 ======
@@ -68,3 +76,4 @@ Service and leadership
 ======
 * Academic Research (co)supervision
 * Co-organizer of the CDT Neurotechnology stand
+* Tutor at the Girls who ML workshop (Imperial College Fall edition)
