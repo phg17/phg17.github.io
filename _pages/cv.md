@@ -35,7 +35,7 @@ Work experience
   * Duties included: Electrophysiological Data Analysis and Modelling
   * Supervior: Jurrian Bakker
  
-* Spring 2023-now: Postdoctoral Researcher - Computational Cognitive Neuroscience
+* Spring 2024-now: Postdoctoral Researcher - Computational Cognitive Neuroscience
   * Institut de Neuroscience des Systèmes, INSERM
   * Duties included: Intracranial Data Analysis, Networks Modelling, Information Theory
   * Supervisor: Benjamin Morillon
