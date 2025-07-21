@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-[PDF version](/CV__Academic_.pdf)
+[PDF version](/CV__Academic_-3.pdf)
 
 Education
 ======
@@ -34,24 +34,32 @@ Work experience
   * INNERVIA-Bioelectronics, Barcelona
   * Duties included: Electrophysiological Data Analysis and Modelling
   * Supervior: Jurrian Bakker
+ 
+* Spring 2023-now: Postdoctoral Researcher - Computational Cognitive Neuroscience
+  * Institut de Neuroscience des Systèmes, INSERM
+  * Duties included: Intracranial Data Analysis, Networks Modelling, Information Theory
+  * Supervisor: Benjamin Morillon
   
 Skills
 ======
 * Quantitative background: 
-  * Broad training in engineering, applied mathematics and statistics with focus on biosignal processing, information theory, computation modelling and data analysis. 
-  * Experience in developing and applying custom machine learning (scikit-learn), topological data analysis (giotto-tda) and deep learning (pytorch) frameworks.
+  * Broad training in engineering and applied mathematics with focus on bio-signal processing, information theory, computational modeling and machine learning.
+  * Experience in developing and applying custom machine learning (scikit-learn), topological data analysis (giotto-tda) and deep learning (pytorch, lightning) frameworks.
 * Programming and computational background:
   * Demonstrable strong programming skills in Python.
   * Basic programming skills in C/C#and Labview.
   * Demonstable experience in deep learning.
   * Demonstrable experience in processing large volumes of data and high-performance computing.
-* Speech signal processing:  Demonstrable experience in speech signal processing with particular focuson extracting speech features at an acoustic and phonetic level
+* Speech signal processing:
+  * Demonstrable experience in speech signal processing with particular focuson extracting speech features at an acoustic and phonetic level
+  * Modeling of language using various computational models (HMM, word2vec embeddings, RNN, LLM) in an information theoretic framework (surprisal, Renyi entropy).
 * Neuroscience tools:  
-  * Electrophysiological (M/s/EEG) and Nerve Data Analysis and Modelling.
+  * Electrophysiological data (M/s/EEG) analysis and modeling.
+  * Nerve recording analysis and modeling.
   * Auditory Brainstem Responses (ABR).
-  * Machine learning, deep learning and spiking neural networks for biologically-constrained models (brian2).
+  * Machine learning, deep learning and spiking neural networks for biologically-constrained models (brian2). 
   * Multisensory Stimulation for Cognitive Experiments.
-  * Inertial Measurement Unit (IMU) for Human Machine Interface
+  * Information theoretic measures for neuroscience (Gaussian Copula Mutual Information, Partial Information Decomposition, Feature-specific Information Transfer, Transfer of Entropy).
 * Languages:
   * French, Native Speaker
   * English, Highly Proficient (C2 IELTS)
