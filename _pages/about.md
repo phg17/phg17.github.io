@@ -22,7 +22,7 @@ I was previously doing my PhD at the [Department of Bioengineering](https://www.
   - Brain-Machine Interface
   - Machine Learning and Deep Learning
   - Teaching
-  - Science Communication
+  - [Science Communication](/science_comm/)
   - Graphic Arts
   - Photoshopping sunglasses on dogs
   - Living, loving and laughing (I'm barely doing any of these)                            
