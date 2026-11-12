@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 
-[PDF version](/CV__Academic_-3.pdf)
+[PDF version](/files/CV.pdf)
 
 Education
 ======
 * 3 years of intensive undergraduate courses of Maths and Physics for the "Grandes Ecoles", Lycee Condorcet Paris, 2015
-* B.S. in Engineering Science, Gremoble INP Phelma, 2016 
-* Engineering Diploma in Biomedical Engineering, Gremoble INP Phelma, 2018 (distinction)
+* B.S. in Engineering Science, Grenoble INP Phelma, 2016 
+* Engineering Diploma in Biomedical Engineering, Grenoble INP Phelma, 2018 (distinction)
 * M.res in Neurotechnology, Imperial College London, 2019 (distinction)
 * Ph.D in Neurotechnology, Imperial College London, 2023 
 
